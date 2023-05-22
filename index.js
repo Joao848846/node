@@ -17,7 +17,7 @@ const data = {
     const teste = async()=>{
         console.log('teste')
         try{
-            await tab.in)
+            await (tab.in)
             console.log('passo 1')
         }catch(error){
             console.log('ERROR::: ', error)
